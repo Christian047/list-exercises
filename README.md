@@ -1,1 +1,1 @@
-This is a python list assignment
+This is a series of exercises using Lists in python
